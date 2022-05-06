@@ -1,0 +1,30 @@
+
+/* Phan dau danh sach san pham */
+.list-product-title {
+    width: 100%;
+    margin: 0px 5px;
+    /* Tat ca chu trong van ban deu thanh chu hoa */
+    text-transform: uppercase;
+}
+.list-product-subtile {
+    width: 100%;
+    margin: 0px 5px;
+}
+
+/* Phan cac card san pham  */
+.card-product {
+    width: 100px;
+    margin: 0px 5px;
+    overflow: hidden;
+}
+.del-price {
+    text-decoration: line-through;
+}
+.btn-icon-bg {
+    color: white !important;
+}
+.btn-hover:hover {
+    color: white !important;
+}
+
+/* Footer */
